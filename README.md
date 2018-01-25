@@ -7,7 +7,7 @@ The basics premise is Seed to sale software for LP's in Canada. Easy to track, s
 
 Here's a basic app structure based off [ACMPR's record keeping regulations](http://laws.justice.gc.ca/eng/regulations/SOR-2016-230/page-20.html#h-27).
 
-1. `Transactions`
+* `Transactions`
   * **Cannabis Received**
     - the `name` of the person from whom it was received;
     - the `address` of the site at which it was received;
@@ -65,7 +65,7 @@ Here's a basic app structure based off [ACMPR's record keeping regulations](http
   * **Refusal to fill an order**
     - A licensed producer who refuses to fill an order referred to in subsection _149(1)_ or _(2)_ must retain a copy of the `written notice` referred to in subsection 151(2).
 
-1. `Client Registrations`
+* `Client Registrations`
   * **Information**
     - A licensed producer must record the following information:
       - details of the verifications performed under subsection _121(2)_, section 132, subsection _135(2)_ and paragraph _139(2)(b)_; and
@@ -81,7 +81,7 @@ Here's a basic app structure based off [ACMPR's record keeping regulations](http
       - a copy of an `amended registration document` referred to in subsection 138(2); and
       - a copy of a `notice` referred to in section 136 or subsection 139(4) or (6).
 
-1. `Security, Production and Inventory`
+* `Security, Production and Inventory`
   * **Security**
     - A licensed producer must keep
       - the `visual recordings` referred to in sections 54 and 59;
@@ -167,13 +167,13 @@ Here's a basic app structure based off [ACMPR's record keeping regulations](http
       * (b) packaged `cannabis oil`, other than cannabis oil referred to in paragraph (c); and
       * (c) `cannabis oil` that is destined for destruction.
 
-1. `Notices to Local Authorities`
+* `Notices to Local Authorities`
   * **Notices**
     * A licensed producer must keep a copy of
       * (a) each `notice` provided to local authorities under sections 48 to 50; and
       * (b) each copy of a `notice` provided to the Minister under section 50.
 
-1. `Communications with Licensing Authorities`
+* `Communications with Licensing Authorities`
   * **Documents**
     * A licensed producer must keep
       * (a) a copy of each `notice` provided to a licensing authority under section 51, as well a copy of the copy of the notice provided to the Minister under that section;
@@ -196,7 +196,7 @@ Here's a basic app structure based off [ACMPR's record keeping regulations](http
 
 As this is a software solution, retention isn't as much of an issue, but this could be built in, so I included it.
 
-1. `General Obligations`
+* `General Obligations`
   * **Manner of keeping records**
     * A licensed producer must ensure that the records, documents and information referred to in this Division are kept in a manner that will enable an audit of them to be made in a timely manner and are available at their site.
 
