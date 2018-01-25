@@ -104,12 +104,12 @@ Here's a basic app structure based off [ACMPR's record keeping regulations](http
 
   * **Sale or provision**
     - A licensed producer who sells or provides fresh or dried marihuana, cannabis oil or marihuana plants or seeds must keep
-      - records of any testing conducted by or on behalf of the licensed producer in respect of any lot or batch of the substance;
-      - records of information necessary for the system of control referred to in section 74; and
-      - a record of the information that the licensed producer is required by section 77 to provide to the Minister in respect of the recall of the substance.
+      - records of any `testing` conducted by or on behalf of the licensed producer in respect of any `lot` or `batch` of the substance;
+      - records of information necessary for the `system of control` referred to in section 74; and
+      - a record of the `information` that the licensed producer is required by section 77 to provide to the Minister in respect of the recall of the substance.
 
   * **Dried marihuana equivalency factor**
-    - A licensed producer must keep a record of the information concerning the method that they have used to determine the dried marihuana equivalency factor under section 79.
+    - A licensed producer must keep a record of the information concerning the `method` that they have used to determine the dried marihuana equivalency factor under section 79.
 
   * **Lot or batch — marihuana**
     - A licensed producer must keep a record of the following information concerning each lot or batch of marihuana that they propagate, sow, harvest, dry, package or destroy:
@@ -137,7 +137,7 @@ Here's a basic app structure based off [ACMPR's record keeping regulations](http
         * (ii) the `datetime` on which it was made or assembled and the quantity made or assembled,
         * (iii) if applicable, the `datetime` on which it was used for testing and the quantity used, and
         * (iv) if applicable, the `datetime` on which it was placed in inventory and the quantity placed in inventory; and
-      * (e) any other details permitting the reconciliation of the quantity of cannabis referred to in paragraph (a) and the quantities of products or compounds referred to in paragraph (d).
+      * (e) any other `details` permitting the reconciliation of the quantity of cannabis referred to in paragraph (a) and the `quantities` of products or compounds referred to in paragraph (d).
 
   * **Destroyed cannabis**
     * A licensed producer must keep, for each instance in which they destroy cannabis, a record of the following information:
@@ -163,7 +163,7 @@ Here's a basic app structure based off [ACMPR's record keeping regulations](http
       * (i) `cannabis` other than marihuana or cannabis oil, with an indication of the `name` and `net weight` of each of the substances in question.
 
   * **Inventory — marihuana plants**
-    * A licensed producer must keep a record of the number of marihuana plants destined to be sold or provided that are in inventory at their site at the end of each quarter of the calendar year.
+    * A licensed producer must keep a record of the `number of marihuana plants` destined to be sold or provided that are in inventory at their site at the end of each quarter of the calendar year.
 
   * **Inventory — cannabis oil**
     * A licensed producer must keep a record of the `net weight` of each of the following that are in inventory at their site at the end of each quarter of the calendar year:
