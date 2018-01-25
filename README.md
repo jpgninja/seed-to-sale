@@ -65,6 +65,8 @@ Here's a basic app structure based off [ACMPR's record keeping regulations](http
   * **Refusal to fill an order**
     - A licensed producer who refuses to fill an order referred to in subsection _149(1)_ or _(2)_ must retain a copy of the `written notice` referred to in subsection 151(2).
 
+---
+
 * `Client Registrations`
   * **Information**
     - A licensed producer must record the following information:
@@ -80,6 +82,8 @@ Here's a basic app structure based off [ACMPR's record keeping regulations](http
       - the `application` for the amendment of a registration referred to in section 137;
       - a copy of an `amended registration document` referred to in subsection 138(2); and
       - a copy of a `notice` referred to in section 136 or subsection 139(4) or (6).
+
+---
 
 * `Security, Production and Inventory`
   * **Security**
@@ -167,11 +171,15 @@ Here's a basic app structure based off [ACMPR's record keeping regulations](http
       * (b) packaged `cannabis oil`, other than cannabis oil referred to in paragraph (c); and
       * (c) `cannabis oil` that is destined for destruction.
 
+---
+
 * `Notices to Local Authorities`
   * **Notices**
     * A licensed producer must keep a copy of
       * (a) each `notice` provided to local authorities under sections 48 to 50; and
       * (b) each copy of a `notice` provided to the Minister under section 50.
+
+---
 
 * `Communications with Licensing Authorities`
   * **Documents**
